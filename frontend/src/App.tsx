@@ -1,7 +1,9 @@
-function App() {
-  return (
-    <h1>Página principal</h1>
-  );
+import Navbar from './components/Navbar';
+
+const App = () => {
+    return (
+        <Navbar />
+    );
 }
 
 export default App;
