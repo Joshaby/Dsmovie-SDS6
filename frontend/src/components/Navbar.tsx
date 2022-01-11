@@ -7,10 +7,10 @@ const Navbar = () => {
             <nav className="container">
                 <div className="dsmovie-nav-content">
                     <h1>DSMovie</h1>
-                    <a href="https://github.com/devsuperior">
+                    <a href="https://github.com/Joshaby">
                         <div className='dsmovie-contact-container'>
                             <GithubIcon />
-                            <p className='dsmovie-contact-link'>/devsuperior</p>
+                            <p className='dsmovie-contact-link'>/Joshaby</p>
                         </div>
                     </a>
                 </div>
