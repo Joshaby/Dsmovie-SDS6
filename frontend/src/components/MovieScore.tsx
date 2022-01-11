@@ -1,4 +1,3 @@
-import { SocketAddress } from "net";
 import MovieStarts from "./MovieStars";
 import './styles.css'
 
