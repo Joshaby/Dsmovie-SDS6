@@ -12,11 +12,13 @@ public class Score {
     private ScorePK id = new ScorePK();
     private Double value;
 
-    public Score() {}
+    public Score() {
+    }
 
     public ScorePK getId() {
         return id;
     }
+
     public void setId(ScorePK id) {
         this.id = id;
     }
@@ -24,6 +26,7 @@ public class Score {
     public Double getValue() {
         return value;
     }
+
     public void setValue(Double value) {
         this.value = value;
     }
